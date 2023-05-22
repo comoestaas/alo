@@ -10,6 +10,6 @@ writefile.html - ao clicar no botão enviar, faz um request para o arquivo write
 wpalavra.html - pegar dados de um formulário, mandar para o script palavra_mestre.php e gravar a string no arquivo ark/mestre.txt
 ## arquivo mestre.txt
 arquivo com as informações do mestre para ser lido pelos jogadores (ainda não implementado)
-## arquivo ark/index do servidor
+## arquivo ark/index.html (arquivos_servidor) - safe to delete
 não é referente a este projeto, é um exemplo de como usar python dentro de uma aplicação web. Pyodide é um projeto de código aberto que combina o interpretador Python com a linguagem JavaScript, permitindo a execução de código Python diretamente no navegador da web. Ele utiliza a tecnologia WebAssembly para executar o interpretador Python em um ambiente de sandbox seguro dentro do navegador.
 
